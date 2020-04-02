@@ -1,0 +1,7 @@
+The reason that I create the reposity is that I want to record my coding log in leetcode.
+
+I want to record some important algorithms in Python3, so I can review them in future.
+
+One algorithm one day!
+
+change!
